@@ -34,4 +34,4 @@ node src/index.js --help
 echo "Week 1 Project - Data Toolkit CLI"
 git log --oneline
 start https://github.com/NilabBadakhsh/nilab-project-week-1
-https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-gotogit 
+https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto
